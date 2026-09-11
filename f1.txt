@@ -1,1 +1,2 @@
-this is a file one for my git course
+this is a file one for my git course 
+lots of detais
